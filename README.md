@@ -6,7 +6,7 @@ Workshop hands-on de BI utilizando **Databricks AI/BI Dashboard** e **Genie Spac
 
 ## Agenda
 
-| # | Tópico | Descrição |
+|  | Tópico | Descrição |
 |---|---|---|
 | 1 | Databricks como ferramenta de análise | O que é e como funciona na nossa estrutura |
 | 2 | Dados reais na prática | A mesma base que alimenta o dashboard de Análise de Vendas |
@@ -37,8 +37,7 @@ Workshop hands-on de BI utilizando **Databricks AI/BI Dashboard** e **Genie Spac
 📁 apresentacao_db_bi/
 ├── README.md                    # Este arquivo
 ├── queries.sql                  # Todas as queries utilizadas no workshop
-├── workshop_bi_databricks.md    # Documentação completa do projeto
-└── trilha_ensinamento.txt       # Trilha de ensino e anotações
+
 ```
 
 ---
