@@ -6,7 +6,7 @@
 
 Sou **Igor**, engenheiro de dados em cloud com **7 anos de carreira** (2026). Certificado **Microsoft Azure** e **Google Cloud**, com experiência em projetos de grande escala:
 
-- **Ambev** — XZe Delivery
+- **Ambev** — Ze Delivery
 - **Smart Sampa** — Cidade Inteligente de São Paulo
 - **Radar Inteligente** — Reporte de queixas de roubos na Marginal para a COPOM
 - **Report Climático** — Prefeitura de São Paulo (gestão Ricardo Nunes)
