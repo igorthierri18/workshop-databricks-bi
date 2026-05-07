@@ -53,6 +53,13 @@ Workshop hands-on de BI utilizando **Databricks AI/BI Dashboard** e **Genie Spac
 ├── prompt_genie.sql             # prompt Genie
 ```
 
+## Resultado esperado pós hands-on
+
+<img width="1423" height="736" alt="image" src="https://github.com/user-attachments/assets/7fd75948-21fa-4958-aa4f-81d66cc89167" />
+<img width="1223" height="714" alt="image" src="https://github.com/user-attachments/assets/bdd60a0c-9fac-41f7-bc9d-ac252a979c55" />
+<img width="1203" height="544" alt="image" src="https://github.com/user-attachments/assets/62b3c58f-82d3-4144-908a-da3e25dab06c" />
+<img width="1413" height="744" alt="image" src="https://github.com/user-attachments/assets/9f7437e0-71a4-40cb-b356-4fce3ba55a1e" />
+
 ---
 
 ## Pré-requisitos
