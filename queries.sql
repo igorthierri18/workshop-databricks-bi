@@ -24,6 +24,16 @@ GROUP BY Competencia
 ORDER BY Competencia;
 
 
+-- teste mes/ano
+-- SELECT 
+--     DATE_FORMAT(DATE(CONCAT(SUBSTRING(Competencia, 1, 4), '-', SUBSTRING(Competencia, 6, 2), '-01')), 'MMM/yy') AS mes_ano,
+--     COUNT(DISTINCT ID_Contrato)  AS qtd_contratos,
+--     SUM(Valor_Plano_Final)       AS valor_total
+-- FROM treinamento_nexus.dm_sales.fact_sales
+-- WHERE Status_Atual = 'Ativo'
+-- GROUP BY Competencia
+-- ORDER BY Competencia;
+
 -- =====================================================
 -- DATASET: pf_pj
 -- =====================================================
